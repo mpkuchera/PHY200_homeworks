@@ -12,3 +12,7 @@ Files for submission:
  - 2.3: `cart_to_pol.py`
  - 2.5: `quantum_step.py`
  - 2.6: `orbits.py`
+
+Notes:
+
+ - 2.2: $F = -GMm/r^2$ for two bodies of masses M and m. Acceleration for a body in circular motion in v2/r
