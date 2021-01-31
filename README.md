@@ -15,4 +15,4 @@ Files for submission:
 
 Notes:
 
- - 2.2: <img src="https://latex.codecogs.com/gif.latex?F = -GMm/r^2" /> for two bodies of masses M and m. Acceleration for a body in circular motion is <img src="https://latex.codecogs.com/gif.latex?v^2/r" />
+ - 2.2: <a href="https://www.codecogs.com/eqnedit.php?latex=F&space;=&space;GMm/r^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F&space;=&space;GMm/r^2" title="F = GMm/r^2" /></a> for two bodies of masses M and m. Acceleration for a body in circular motion is <img src="https://latex.codecogs.com/gif.latex?v^2/r" />
