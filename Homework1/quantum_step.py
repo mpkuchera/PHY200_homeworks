@@ -19,7 +19,6 @@ date edited: 1/31/2021
 def probabilities():
     """
     
-
     Returns
     -------
     transmission : transmission probability
