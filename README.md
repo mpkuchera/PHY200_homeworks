@@ -15,4 +15,4 @@ Files for submission:
 
 Notes:
 
- - 2.2: $F = -GMm/r^2$ for two bodies of masses M and m. Acceleration for a body in circular motion in v2/r
+ - 2.2: <img src="https://latex.codecogs.com/gif.latex?F = -GMm/r^2" /> for two bodies of masses M and m. Acceleration for a body in circular motion is <img src="https://latex.codecogs.com/gif.latex?v^2/r" />
