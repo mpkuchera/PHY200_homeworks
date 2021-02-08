@@ -1,33 +1,74 @@
 """
+
+name: semi_empirical.py
+
  This program calculates the binding energy and binding energy per 
  nucleon for a given isotope.
 
- author: M.P. Kuchera
- date created: 1/20/2018
- date edited: 2/2/2018 
+Problem 2.10 from Newman's Computational Physics.
+
+author: Wanda Maximoff
+date created: 2/2/2018
+date edited: 2/7/2021
+
 """
 
-a1 = 15.8
-a2 = 18.3
-a3 = 0.714
-a4 = 23.2
+# import statements
 
-from math import sqrt
+
+
+# user-defined functions
+def binding_energy(A,Z):
+    """
+    calculates the binding energy of a single isotope
+
+    Parameters
+    ----------
+    A : integer
+        number of nucleons
+    Z : integer
+        number of protons
+
+    Returns
+    -------
+    BE : float
+        binding energy
+
+    """
+    
+    
+    
+    return BE
+
+def binding_energy_per_nucleon(A,Z):
+    """
+    calculates the binding energy per nucleon of a single isotope
+
+    Parameters
+    ----------
+    A : integer
+        number of nucleons
+    Z : integer
+        number of protons
+
+    Returns
+    -------
+    BE_A : float
+        binding energy per nucleon
+
+    """
+    
+    
+    return BE_A
 
 
 def main():
-    Z = int(input("Number of protons in nucleus: "))
-    A = int(input("Atomic number of nucleus: "))
-    print()
-    if A%2 == 1:
-        a5=0.0
-    elif Z%2 == 0:
-        a5 = 12.0
-    else:
-        a5 = -12.0
+    #complete me for 58Ni (Nickle-58)
     
-    BE = a1*A - a2*A**(2/3)-a3*Z**2/A**(1/3) - a4*(A-2*Z)**2/A + a5/sqrt(A)
-    print("Binding energy:", BE, "MeV\nBinding energy per nuleon:",BE/A,"MeV/u")
+    # a)
+    
+    
+    # b) 
 
 if __name__ == "__main__":
     main()
