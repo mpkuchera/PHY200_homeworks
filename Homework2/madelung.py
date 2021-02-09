@@ -4,7 +4,7 @@ name: madelung.py
 
 This program calculates the Madelung constant for sodium chloride
 
-Problem 2.5 from Newman's Computational Physics.
+Problem 2.9 from Newman's Computational Physics.
 
 author: Wanda Maximoff
 date created: 2/2/2018
