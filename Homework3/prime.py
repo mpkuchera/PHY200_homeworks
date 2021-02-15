@@ -15,7 +15,7 @@ date edited: 2/15/2021
 """
 
 # imports here
-from math import sqrt
+
 
 # part a: function name: primes_a
 
