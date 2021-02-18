@@ -17,7 +17,7 @@ date edited: 2/15/2021
 # part a: function name: binomial
 
     """
-    Finds the binomial coefficient for n and k 
+    Finds the binomial coefficient for n and k
 
     Parameters
     ----------
@@ -47,41 +47,41 @@ date edited: 2/15/2021
     -------
     None.
 
-    """    
+    """
 
 
 #c-a: function name: prob
 
     """
     Calculates the probability of tossing n_heads out of n_tosses
-    
+
     Parameters
     ----------
     n_tosses : INT
         number of tosses
     n_heads : INT
         number of heads
-    
+
     Returns
     -------
     FLOAT
         probability
     """
-        
+
 
 
 #c-b: function name: prob_more_than
 
     """
     Calculates the probability of tossing n_heads or more out of n_tosses
-    
+
     Parameters
     ----------
     n_tosses : INT
         number of tosses
     n_heads : INT
         number of heads
-    
+
     Returns
     -------
     FLOAT
@@ -91,24 +91,19 @@ date edited: 2/15/2021
 
 def main():
     # some examples of using the functions
-    
+
     print(binomial(5,2))
-    
+
     pascal_triangle( 20)
-    
-    
+
+
     toss = 100
     heads = 60
 
-    print("the probability of exactly 60 heads is:",prob(toss,heads))    
-    
-    prob_more_60 = 0.
-    for i in range(heads,toss+1):
-        prob_more_60 += prob(toss,i)
-    
-    print("the probability of 60 or more heads is:",prob_more_60)
-    
+    print("the probability of exactly 60 heads is:",prob(toss,heads))
+
+
+    print("the probability of 60 or more heads is:",prob_more_60(heads,toss))
+
 if __name__ == "__main__":
     main()
-    
-    
