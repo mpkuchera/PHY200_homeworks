@@ -7,9 +7,9 @@ and plots the results.
 
  
 
-Problem 2.12 from Newman's Computational Physics.
+Problem 3.1 from Newman's Computational Physics.
 
-author: Monica Rambeau
+author: Jimmy Woo    
 date created: 2/26/2018 
 date edited: 2/22/2021
 
