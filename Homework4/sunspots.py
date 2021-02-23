@@ -7,9 +7,9 @@ and plots the results.
 
  
 
-Problem 3.1 from Newman's Computational Physics.
+Problem 2.12 from Newman's Computational Physics.
 
-author: Jimmy Woo    
+author: Monica Rambeau
 date created: 2/26/2018 
 date edited: 2/22/2021
 
@@ -41,7 +41,7 @@ date edited: 2/22/2021
 =
  
     
-# part b: function name: primes_b
+# part b: function name: some_data
 
     """
     Returns a subset of the input arrays
@@ -63,7 +63,7 @@ date edited: 2/22/2021
 
 
 
-# part c: function name: primes_c
+# part c: function name: running_average
 
     """
     
