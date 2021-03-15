@@ -29,13 +29,13 @@ date created: 15/3/2021
     ----------
     m : INT
         mth Bessel function.
-    x : array of FLOAT
-        x-values to calculate Bessel function for.
+    x : FLOAT
+        x-value to calculate Bessel at.
 
     Returns
     -------
-    bessel : array of FLOAT
-        mth Bessel function for the x values.
+    bessel : FLOAT
+        mth Bessel function at x.
 
     """
 
