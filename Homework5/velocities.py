@@ -38,6 +38,12 @@ date created: 15/3/2021
     """
     Calculate distance via the trapezoidal rule.
 
+    Parameters
+    ----------
+    t : array of FLOAT
+        time array.
+    v : array of FLOAT
+        velocity array.
     Returns
     -------
     time : array of FLOAT
