@@ -6,7 +6,7 @@ This program plots various curves
 
 Problem 3.2 from Newman's Computational Physics.
 
-author: Jimmy Wu
+author: Jimmy Woo
 date created: 2/6/2018
 date edited: 2/22/2021
 
