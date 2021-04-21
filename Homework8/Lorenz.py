@@ -1,5 +1,5 @@
 """
-name: Lorentz.py
+name: Lorenz.py
 
 Compute and visualize the Lorentz attractor.
 
