@@ -1,5 +1,5 @@
 """
-name: Lorentz.py
+name: filters.py
 
 Compute and visualize the voltages on a low-pass filter.
 
