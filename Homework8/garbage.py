@@ -1,5 +1,5 @@
 """
-name: Lorentz.py
+name: garbage.py
 
 Compute and visualize the trajectories of space garbage.
 
