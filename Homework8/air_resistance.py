@@ -1,5 +1,5 @@
 """
-name: Lorentz.py
+name: air_resistance.py
 
 Compute and visualize the *realistic* trajectories of a cannonball.
 
